@@ -1,0 +1,2 @@
+# Resolutionai
+Resolution Changer bot
